@@ -1,3 +1,11 @@
+# Todo Before public
+
+- [ ] improve documentaion.
+- [ ] clean the code base.
+- [ ] publish the extenstion.
+- [ ] add one more freature
+  - ex : pop up to remind about write any new info at the technioal daiers before leaving VScode
+
 # PragProg README
 
 This is the README for your extension "PragProg". After writing up a brief description, we recommend including the following sections.
