@@ -8,4 +8,4 @@
 
 ## Features
 
-Alert before save any new code to check if the new code is following Pragmatice Programmer Book ETC principle
+Alert before save any new code to check if the new code is following Pragmatic Programmer Book ETC principle
