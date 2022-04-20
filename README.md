@@ -1,4 +1,4 @@
-# Todo Before public
+# Todo
 
 - [ ] improve documentaion.
 - [ ] clean the code base.
